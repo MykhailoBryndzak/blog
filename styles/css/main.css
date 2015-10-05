@@ -1,0 +1,23 @@
+html {
+    background: darkgray;
+    overflow-y: scroll;
+}
+
+section {
+    width: 800px;
+    background: #fff;
+    margin: auto;
+    padding: 20px;
+}
+
+#page {
+    text-decoration: none;
+}
+
+#next {
+    color: #ccc;
+}
+
+#page_num {
+    font-size: 20px;
+}
